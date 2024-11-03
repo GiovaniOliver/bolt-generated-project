@@ -1,0 +1,17 @@
+.splash-screen {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #000;
+  color: #fff;
+}
+
+.logo-placeholder {
+  width: 100px;
+  height: 100px;
+  background-color: #fff;
+  border-radius: 20px;
+  margin-top: 20px;
+}
